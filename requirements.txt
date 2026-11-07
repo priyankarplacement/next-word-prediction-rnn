@@ -1,0 +1,4 @@
+tensorflow
+numpy
+requests
+beautifulsoup4
